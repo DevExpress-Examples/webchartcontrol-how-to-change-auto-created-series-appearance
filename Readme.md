@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [WebForm1.aspx.cs](./CS/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/WebForm1.aspx.vb))
+* [WebForm1.aspx.cs](./CS/BoundDataChangedExample/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/BoundDataChangedExample/WebForm1.aspx.vb))
 
 <!-- default file list end -->
 
