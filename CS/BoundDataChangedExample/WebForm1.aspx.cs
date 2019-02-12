@@ -23,11 +23,12 @@ namespace BoundDataChangedExample {
 
         private void WebChartControl_BoundDataChanged(object sender, EventArgs e) {
             Series series = webChartControl.Series.Where(s => s.Name == "2015").FirstOrDefault() as Series;
-            SideBySideBarSeriesView view = series?.View as SideBySideBarSeriesView;
-            if(view != null) {
-                view.Color = System.Drawing.Color.Orange;
-                view.FillStyle.FillMode = FillMode.Solid;
-
+            if(series != null) {
+                SideBySideBarSeriesView view = series.View as SideBySideBarSeriesView;
+                if(view != null) {
+                    view.Color = System.Drawing.Color.Orange;
+                    view.FillStyle.FillMode = FillMode.Solid;
+                }
             }
         }
 
