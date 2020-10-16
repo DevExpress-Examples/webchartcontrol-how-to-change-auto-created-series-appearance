@@ -1,8 +1,8 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="WebForm1.aspx.vb" Inherits="BoundDataChangedExample.WebForm1" %>
 
-<%@ Register assembly="DevExpress.XtraCharts.v18.2.Web, Version=18.2.13.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.XtraCharts.Web" tagprefix="dx" %>
+<%@ Register assembly="DevExpress.XtraCharts.v18.2.Web, Version=18.2.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.XtraCharts.Web" tagprefix="dx" %>
 
-<%@ Register assembly="DevExpress.XtraCharts.v18.2, Version=18.2.13.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.XtraCharts" tagprefix="cc1" %>
+<%@ Register assembly="DevExpress.XtraCharts.v18.2, Version=18.2.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.XtraCharts" tagprefix="cc1" %>
 
 <!DOCTYPE html>
 
