@@ -6,9 +6,6 @@
 <!-- default file list -->
 
 # Chart for Web Forms - Change Auto-Created Series Appearance
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/170144676/)**
-<!-- run online end -->
 
 This example demonstrates how to access the [auto-created series](https://docs.devexpress.com/AspNet/15950/asp.net-webforms-controls/chart-control/concepts/creating-charts/providing-data/automatic-series-creation) appearance settings at runtime.
 
