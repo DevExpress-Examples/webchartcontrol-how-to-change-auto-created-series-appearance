@@ -20,7 +20,7 @@ Handle the [WebChartControl.BoundDataChanged](https://docs.devexpress.com/AspNet
 
 * [Automatic Series Creation](https://docs.devexpress.com/AspNet/15950/asp.net-webforms-controls/chart-control/concepts/creating-charts/providing-data/automatic-series-creation)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=webchartcontrol-how-to-change-auto-created-series-appearance&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=webchartcontrol-how-to-change-auto-created-series-appearance&~~~was_helpful=no)
 
